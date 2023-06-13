@@ -1,0 +1,17 @@
+.footer {
+    background-color: #2B3035;
+    padding: 20px;
+    text-align: center;
+}
+
+#footerText {
+    color: #CACBC3;
+}
+
+body {
+    background-color: #FFF;
+}
+
+/* .cardIMG {
+    max-width: 100%;
+} */
