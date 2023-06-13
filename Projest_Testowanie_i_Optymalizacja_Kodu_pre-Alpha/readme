@@ -1,0 +1,4 @@
+For unit tests make sure to install mocha chai:
+npm install mocha chai --save-dev
+and then run:
+npx mocha
